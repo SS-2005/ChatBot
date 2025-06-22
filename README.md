@@ -2,6 +2,9 @@
 
 DigiBuddy is a smart, friendly AI chatbot designed to help parents and seniors learn digital skills. It features voice input, quick-select help options, and a clean, mobile-friendly interface — all powered by OpenRouter's AI API.
 
+Website: https://ss-2005.github.io/ChatBot/
+
+
 ---
 
 ## 🌟 Features
